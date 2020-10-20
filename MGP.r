@@ -20,7 +20,7 @@ source('f_evt_quant.r')
 
 
 # Set working directory
-path = 'F:/Progetti/MGP/files'
+path = 'insert your work directory'
 setwd(path)
 
 
