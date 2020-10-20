@@ -1,3 +1,6 @@
+# author: Fabrizio Miorelli
+# licence: GNU AGPLv3 
+
 rm(list=ls())
 
 library(XML)
@@ -11,7 +14,7 @@ library(fExtremes)
 ################################################################################
 
 # Loading the functions that are used here
-path = 'F:/Progetti/MGP'
+path = 'insert your work directory'
 setwd(path)
 source('f_evt_quant.r')
 
